@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello!! I'm Kush 👋
 
+- Welcome to my Github profile. 
+- I am a sophomore in Mechanical Engineering at IIT Gandhinagar. 
+- Enthusistic about Robotics, IoT and Embedded system(micro-controllers). Interested in Machine Learning, AI and Data Science.
+- I am currently doing Summer Research Intern at IITD(Indian Institute of Technology Delhi) where developing the Telerobotic Ultrasound(TR-US) system.
+- Checkout my LinkedIn account.
+
+### <img src="{https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png}" />[Kush Patel](https://www.linkedin.com/in/kush-patel-5397281b8/)
 <!--
 **kushpatel19/kushpatel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
