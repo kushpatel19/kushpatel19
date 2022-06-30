@@ -3,7 +3,7 @@
 - Welcome to my Github profile. 
 - I am a sophomore in Mechanical Engineering at IIT Gandhinagar. 
 - Enthusistic about Robotics, IoT and Embedded system(e.g. micro-controllers). Interested in Machine Learning, AI and Data Science.
-- I am currently doing Summer Research Intern at IITD(Indian Institute of Technology Delhi) where developing the Telerobotic Ultrasound(TR-US) system.
+- I am currently doing Summer Research Intern at IITD(Indian Institute of Technology Delhi) where developing the Comprehensive Telerobotic Ultrasound(TR-US) system.
 - Checkout my LinkedIn account.
 
 ### [Kush Patel](https://www.linkedin.com/in/kush-patel-5397281b8/)
