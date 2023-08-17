@@ -1,10 +1,11 @@
 ### Hello!! I'm Kush 👋
 
 - Welcome to my Github profile. 
-- I am a junior undergraduate student in Mechanical Engineering at IIT Gandhinagar. 
-- Enthusistic about Robotics, IoT and Embedded system(e.g. micro-controllers). Interested in Machine Learning, AI and Data Science.
-- I have done Summer Research Intern at IITD(Indian Institute of Technology Delhi) where developing the Comprehensive Telerobotic Ultrasound(TR-US) system.
-- Checkout my LinkedIn account.
+- Presently, I'm a senior undergraduate scholar majoring in Mechanical Engineering at IIT Gandhinagar.
+- My passions revolve around Robotics, IoT, and the realm of Embedded Systems, especially micro-controllers. The domains of Machine Learning, AI, and Data Science have also captured my interest.
+- I had the opportunity to engage in a Summer Research Internship at Purdue University, USA during the summer of 2023. During this time, I focused on integrating UAVs and UGVs for applications in agriculture.
+- The summer of 2022 saw me involved in a Summer Research Internship at IIT Delhi (Indian Institute of Technology Delhi). My efforts were directed towards the development of a Comprehensive Telerobotic Ultrasound (TR-US) system.
+- Checkout my LinkedIn profile as well!
 
 ### [Kush Patel](https://www.linkedin.com/in/kush-patel-5397281b8/)
 <!--
