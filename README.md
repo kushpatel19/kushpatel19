@@ -7,7 +7,9 @@
 - The summer of 2022 saw me involved in a Summer Research Internship at **IIT Delhi** (Indian Institute of Technology Delhi). My efforts were directed towards the development of a Comprehensive Telerobotic Ultrasound (TR-US) system.
 - Checkout my LinkedIn profile as well!
 
-### [Kush Patel](https://www.linkedin.com/in/kush-patel-5397281b8/)
+<p align="left">
+<a href="https://www.linkedin.com/in/kush-patel-5397281b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushpatel" height="30" width="40" /></a>
+</p>
 <!--
 **kushpatel19/kushpatel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
