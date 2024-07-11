@@ -1,12 +1,11 @@
 ### Hello!! I'm Kush 👋
 
-- Welcome to my Github profile. 
-- Presently, I'm a senior undergraduate scholar majoring in **Mechanical Engineering** and minoring in **Robotics** at IIT Gandhinagar.
-- My passions revolve around **Robotics, IoT,** and the realm of **Embedded Systems**, especially micro-controllers. The domains of **Machine Learning** and **AI** have also captured my interest.
-- I had the opportunity to engage in a Summer Research Internship at **Purdue University, USA** during the summer of 2023. During this time, I focused on integrating UAVs and UGVs for applications in agriculture.
-- The summer of 2022 saw me involved in a Summer Research Internship at **IIT Delhi** (Indian Institute of Technology Delhi). My efforts were directed towards the development of a Comprehensive Telerobotic Ultrasound (TR-US) system.
-- Checkout my LinkedIn profile as well!
+- 🤗 Welcome to my Github profile. 
+- 🎓 Presently, I'm a MS scholar majoring in **MechE** with concentration in **Robotics** at University of Michigan, Ann Arbor. I have done Bachelors from IIT Gandhinagar in **MechE (Robotics)**. 
+- 🤖 My passions revolve around **Mobile Robots and Robotics Manipulation**. The domains of **Machine Learning** and **AI** have also captured my interest.
+- 📧 How to reach me **kushkp@umich.edu**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kush-patel-5397281b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushpatel" height="30" width="40" /></a>
 </p>
