@@ -25,7 +25,7 @@
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="40"/>&nbsp; -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" title="GNU/LINUX" alt="GNU/LINUX" width="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" title="Ubuntu" alt="Ubuntu" width="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV" alt="OpenCV" width="40"/>&nbsp;
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" title="Arduino" alt="Arduino" width="50"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" title="Jupyter Notebook" alt="Jupyter Notebook" width="40"/>&nbsp;
