@@ -2,7 +2,7 @@
 
 - 🤗 Welcome to my Github profile. 
 - 🎓 Presently, I'm a MS scholar majoring in **MechE** with concentration in **Robotics** at *University of Michigan, Ann Arbor*. I have done Bachelors from *IIT Gandhinagar* in **MechE (Robotics)**. 
-- 🤖 My passions revolve around **Mobile Robots and Robotics Manipulation**. The domains of **Machine Learning** and **AI** have also captured my interest.
+- 🤖 My passions revolve around **Mobile Robots, Motion Planning, Controls, Mechatronics and Robotics Manipulation**. The domains of **Machine Learning** and **AI** have also captured my interest.
 - 📧 How to reach me **kushkp@umich.edu**
 
 <h3 align="left"> Connect with me:</h3>
