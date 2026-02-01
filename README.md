@@ -1,7 +1,8 @@
 ### Hello!! I'm Kush 👋
 
 - 🤗 Welcome to my Github profile. 
-- 🎓 Presently, I'm a MS scholar majoring in **MechE** with concentration in **Robotics** at *University of Michigan, Ann Arbor*. I have done Bachelors from *IIT Gandhinagar* in **MechE (Robotics)**. 
+- 🎓 Presently, I'm a MS scholar majoring in **MechE** with concentration in **Robotics** at *University of Michigan, Ann Arbor*. I have done Bachelors from *IIT Gandhinagar* in **MechE (Robotics)**.
+- 🚛 I am also currently a **Software Engineer (Controls) Intern** at **Kodiak Robotics**, developing production-level C++ control software for autonomous trucking.
 - 🤖 My passions revolve around **Mobile Robots, Motion Planning, Controls, Mechatronics and Robotics Manipulation**. The domains of **Machine Learning** and **AI** have also captured my interest.
 - 📧 How to reach me **kushkp@umich.edu**
 
@@ -24,6 +25,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Gazebo_logo.svg" title="Gazebo Simulator" alt="Gazebo Simulator" width="170" height="40"/>&nbsp;
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="40"/>&nbsp; -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Bazel_logo.svg" title="Bazel" alt="Bazel" width="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" title="GNU/LINUX" alt="GNU/LINUX" width="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" title="Ubuntu" alt="Ubuntu" width="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV" alt="OpenCV" width="40"/>&nbsp;
